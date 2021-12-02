@@ -1,0 +1,14 @@
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\bin\Debug\netcoreapp3.1\FundamentoCsharp.exe
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\bin\Debug\netcoreapp3.1\FundamentoCsharp.deps.json
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\bin\Debug\netcoreapp3.1\FundamentoCsharp.runtimeconfig.json
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\bin\Debug\netcoreapp3.1\FundamentoCsharp.runtimeconfig.dev.json
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\bin\Debug\netcoreapp3.1\FundamentoCsharp.dll
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\bin\Debug\netcoreapp3.1\FundamentoCsharp.pdb
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\FundamentoCsharp.csproj.AssemblyReference.cache
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\FundamentoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\FundamentoCsharp.AssemblyInfoInputs.cache
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\FundamentoCsharp.AssemblyInfo.cs
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\FundamentoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\FundamentoCsharp.dll
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\FundamentoCsharp.pdb
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\FundamentoCsharp.genruntimeconfig.cache

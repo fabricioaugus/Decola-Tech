@@ -1,0 +1,14 @@
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\bin\Debug\netcoreapp3.1\Csharp.exe
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\bin\Debug\netcoreapp3.1\Csharp.deps.json
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\bin\Debug\netcoreapp3.1\Csharp.runtimeconfig.json
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\bin\Debug\netcoreapp3.1\Csharp.runtimeconfig.dev.json
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\bin\Debug\netcoreapp3.1\Csharp.dll
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\bin\Debug\netcoreapp3.1\Csharp.pdb
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\Csharp.csproj.AssemblyReference.cache
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\Csharp.AssemblyInfoInputs.cache
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\Csharp.AssemblyInfo.cs
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\Csharp.dll
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\Csharp.pdb
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Introdução ao C# e .NET\Csharp\Csharp\obj\Debug\netcoreapp3.1\Csharp.genruntimeconfig.cache
