@@ -1,0 +1,14 @@
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Desafio C#\Desafio\Desafio\bin\Debug\netcoreapp3.1\Desafio.exe
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Desafio C#\Desafio\Desafio\bin\Debug\netcoreapp3.1\Desafio.deps.json
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Desafio C#\Desafio\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.json
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Desafio C#\Desafio\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.dev.json
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Desafio C#\Desafio\Desafio\bin\Debug\netcoreapp3.1\Desafio.dll
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Desafio C#\Desafio\Desafio\bin\Debug\netcoreapp3.1\Desafio.pdb
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Desafio C#\Desafio\Desafio\obj\Debug\netcoreapp3.1\Desafio.csproj.AssemblyReference.cache
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Desafio C#\Desafio\Desafio\obj\Debug\netcoreapp3.1\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Desafio C#\Desafio\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfoInputs.cache
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Desafio C#\Desafio\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfo.cs
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Desafio C#\Desafio\Desafio\obj\Debug\netcoreapp3.1\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Desafio C#\Desafio\Desafio\obj\Debug\netcoreapp3.1\Desafio.dll
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Desafio C#\Desafio\Desafio\obj\Debug\netcoreapp3.1\Desafio.pdb
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\Desafio C#\Desafio\Desafio\obj\Debug\netcoreapp3.1\Desafio.genruntimeconfig.cache
