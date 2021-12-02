@@ -2,7 +2,7 @@
 
 namespace Primeiro
 {
-    class Program
+    class Primeiro
     {
         static void Main(string[] args)
         {
