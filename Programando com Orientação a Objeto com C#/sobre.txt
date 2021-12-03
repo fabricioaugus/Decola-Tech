@@ -1,0 +1,2 @@
+essa pasta contém codigos trabalhado em aula do
+curso -> Programando com Orientação a Objeto com C# 
