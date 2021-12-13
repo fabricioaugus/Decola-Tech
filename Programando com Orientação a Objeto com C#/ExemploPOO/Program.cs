@@ -7,10 +7,13 @@ namespace ExemploPOO
     {
         static void Main(string[] args)
         { 
+            Corrente c = new Corrente();
+            c.Creditar(100);
+            c.ExibirSaldo();
             // Calculadora class
-            Calculadora calculadora = new Calculadora(); 
-            Console.WriteLine($"Primeiro Somar: {calculadora.Somar(1,2)}");
-            Console.WriteLine($"Segundo Somar: {calculadora.Somar(1,2,6)}");
+            // Calculadora calculadora = new Calculadora(); 
+            // Console.WriteLine($"Primeiro Somar: {calculadora.Somar(1,2)}");
+            // Console.WriteLine($"Segundo Somar: {calculadora.Somar(1,2,6)}");
             // valores positivos validos
             //Retangulo r = new Retangulo();
             //r.DefinirMedida(30,30);
