@@ -6,10 +6,17 @@ namespace ExemploPOO
     class Program
     {
         static void Main(string[] args)
-        { 
-            Corrente c = new Corrente();
-            c.Creditar(100);
-            c.ExibirSaldo();
+        {   
+            Calculadora calc = new Calculadora();
+            int a = calc.Somar(10,20);
+            int b = calc.Dividir(20,20);
+            int c = calc.Subtrair(20,10);
+            int d = calc.Multiplicar(10,10);
+            Console.WriteLine($" Dividir 20/20: {b} \nMultiplicação 10*10: {d} \nSomar 10+20: {a} \ndoSubtrair 20-10: {c}");
+
+            // Corrente c = new Corrente();
+            // c.Creditar(100);
+            // c.ExibirSaldo();
             // Calculadora class
             // Calculadora calculadora = new Calculadora(); 
             // Console.WriteLine($"Primeiro Somar: {calculadora.Somar(1,2)}");
