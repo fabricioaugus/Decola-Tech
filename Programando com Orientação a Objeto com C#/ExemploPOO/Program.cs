@@ -1,4 +1,5 @@
 ﻿using System;
+using ExemploPOO.Models;
 
 namespace ExemploPOO
 {
@@ -6,7 +7,10 @@ namespace ExemploPOO
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           Pessoa p1 = new Pessoa();
+           p1.Nome = "José";
+           p1.Idade = 20;
+           p1.Apresentar();
         }
     }
 }
