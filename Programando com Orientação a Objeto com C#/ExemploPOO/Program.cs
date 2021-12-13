@@ -15,10 +15,21 @@ namespace ExemploPOO
              //Retangulo r1 = new Retangulo();
             //r1.DefinirMedida(-30,30);
             //Console.WriteLine($"Area: {r1.ObterArea()}");
-           Aluno a1 = new Aluno();
-           a1.Nome = "José";
-           a1.Idade = 20;
-           a1.Apresentar();
+           
+           // ALUNO 
+            Aluno a1 = new Aluno();
+            a1.Nome = "José";
+            a1.Idade = 20;
+            a1.Nota = 10;
+            a1.Apresentar();
+
+            // PROFESSOR
+            Professor p1= new Professor();
+            p1.Nome = "Marcos";
+            p1.Idade = 20;
+            p1.salario = 1100.23;
+            p1.Apresentar();
+
            
         }
     }
