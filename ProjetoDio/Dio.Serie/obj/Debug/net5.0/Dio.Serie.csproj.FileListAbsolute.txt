@@ -1,0 +1,5 @@
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\ProjetoDio\Dio.Serie\obj\Debug\net5.0\Dio.Serie.csproj.AssemblyReference.cache
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\ProjetoDio\Dio.Serie\obj\Debug\net5.0\Dio.Serie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\ProjetoDio\Dio.Serie\obj\Debug\net5.0\Dio.Serie.AssemblyInfoInputs.cache
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\ProjetoDio\Dio.Serie\obj\Debug\net5.0\Dio.Serie.AssemblyInfo.cs
+C:\Users\fabri\Desktop\CONJUNTO_DE_PASTAS_IMPORTANTE\workspace\Decola_Tech\Decola-Tech\ProjetoDio\Dio.Serie\obj\Debug\net5.0\Dio.Serie.csproj.CoreCompileInputs.cache
