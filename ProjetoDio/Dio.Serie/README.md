@@ -1,7 +1,7 @@
 ### Menu 
 #### versões 
 #### dotnet 5.0.404
-<code ><a style="color: read" href="https://docs.microsoft.com/pt-br/dotnet/api/?view=net-5.0">Documentação</a></code>
+<code ><a href="https://docs.microsoft.com/pt-br/dotnet/api/?view=net-5.0">Documentação</a></code>
 <h3> Menu </h3>
 <div>
     <img  align ="center" src = "https://github.com/fabricioaugus/Decola-Tech/blob/main/ProjetoDio/Dio.Serie/img_do_Projeto/Menu.png"></img>
