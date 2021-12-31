@@ -1,4 +1,6 @@
 ### Menu 
+#### versões 
+#### dotnet 5.0.404
 <div>
     <img  align ="center" src = "https://github.com/fabricioaugus/Decola-Tech/blob/main/ProjetoDio/Dio.Serie/img_do_Projeto/Menu.png"></img>
 </div>
